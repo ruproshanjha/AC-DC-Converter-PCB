@@ -39,10 +39,10 @@ The project converts a 12V AC supply into a filtered DC output using a full brid
 ## 📐 PCB Layout
 
 ### Top View (Component Side)
-![Front View](./front.png)
+![Front View](./docs/front.png)
 
 ### Bottom View (Solder Side)
-![Back View](./back.png)
+![Back View](./docs/back.png)
 
 ---
 
