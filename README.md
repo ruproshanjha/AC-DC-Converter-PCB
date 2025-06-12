@@ -18,7 +18,7 @@ The project converts a 12V AC supply into a filtered DC output using a full brid
 
 ## ⚡ Circuit Diagram
 
-![Schematic](./schamatic.png)
+![Schematic](./docs/schamatic.png)
 
 ---
 
